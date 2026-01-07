@@ -19,7 +19,7 @@ A modern e-commerce storefront built with Next.js 15, TypeScript, and Tailwind C
 
 1. **Clone the repository**:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/asmaib/Ebra-Store.git
    cd ebra-store
    ```
 2. **Install dependencies**:
