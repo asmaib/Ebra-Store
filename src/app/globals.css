@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  /* Adding the specific 3legant/ebra font family for high design quality */
+  --font-sans: "Inter", ui-sans-serif, system-ui;
+}
+
+body {
+  color: #000000;
+  background: #ffffff;
+}
